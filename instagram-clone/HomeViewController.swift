@@ -3,7 +3,6 @@
 //  instagram-clone
 //
 //  Created by Kinshuk Juneja on 3/12/17.
-//  Copyright © 2017 CS490. All rights reserved.
 //
 
 import UIKit
